@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Small Show Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_episodes">EpisodesActivity</string>
+    <string name="more_info"><u>More info</u></string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="fristId">1</string>
+    <string name="secondId">2</string>
+    <string name="thirdId">3</string>
+    <string name="fourthId">4</string>
+    <string name="fifthId">5</string>
+    <string name="sixthId">6</string>
+    <string name="seventhId">7</string>
+    <string name="title_activity_watched">WatchedActivity</string>
+</resources>
